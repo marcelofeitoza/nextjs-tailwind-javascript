@@ -22,9 +22,9 @@
 
 Using `create-next-app`
 
-    ```bash
-    npx create-next-app -e https://github.com/marcelofeitoza/nextjs-tailwind-javascript {project-name}
-    ```
+```bash
+npx create-next-app -e https://github.com/marcelofeitoza/nextjs-tailwind-javascript {project-name}
+```
 
 ### 2. Install dependencies
 
